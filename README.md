@@ -8,7 +8,7 @@
 BuildBridge is an AI-assisted learning-to-work platform designed to help students turn traditional learning into practical capability and evidence-backed experience. It connects learning resources, career and coursework pathways, hands-on projects, skill evidence, feedback, credentials and professional opportunities in one connected journey.
 
 <p align="left">
-  <a href="https://buildbridge-ten.vercel.app"><strong>Open BuildBridge</strong></a> ·
+  <a href="build-bridge-iuqj5812p-sukumari-sadhukhan.vercel.app"><strong>Open BuildBridge</strong></a> ·
   <a href="https://build-bridge-demo.vercel.app"><strong>Interactive demo</strong></a> ·
   <a href="https://github.com/sukumarisadhukhan/BuildBridge"><strong>Source code</strong></a> ·
   <a href="https://github.com/sukumarisadhukhan/BuildBridge-Demo"><strong>Demo repository</strong></a>
